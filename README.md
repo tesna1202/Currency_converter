@@ -1,4 +1,4 @@
-# Currency Converter 💱
+# Currency Converter 
 
 A simple currency converter using HTML, CSS, and JavaScript.
 
